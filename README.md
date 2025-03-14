@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/90f9ec11-5c19-4aba-8bb4-699598b303dc)
-
-
+![image](https://github.com/user-attachments/assets/ab52002d-58f3-412c-bd20-fd1d4d55860d)
+![image](https://github.com/user-attachments/assets/f57dfbd4-0a0b-429e-ab11-6e2223a93419)
 🚀 Agilizador de Tarefas - Reconhecimento de Texto em Imagens 📸
 Descrição
 Este projeto é uma ferramenta desenvolvida em Python 🐍, que utiliza tecnologia de Reconhecimento Óptico de Caracteres (OCR) para extrair texto de qualquer imagem 🖼️ e colá-lo diretamente onde o usuário deseja. A aplicação foi projetada para agilizar tarefas diárias ⏱️, facilitando a extração de texto de imagens e sua utilização sem a necessidade de digitação manual ⌨️.
