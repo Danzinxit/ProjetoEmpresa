@@ -35,7 +35,7 @@ Baixar o código: Faça o download ou clone este repositório para o seu diretó
 
 bash
 Copiar
-git clone https://github.com/empresa/agilizador-tarefas.git
+git clone (https://github.com/Danzinxit/ProjetoEmpresa.git)
 Como Usar
 Executar o programa: Após a instalação e configuração, execute o arquivo do projeto. Para isso, abra o terminal ou prompt de comando e navegue até o diretório do projeto.
 
